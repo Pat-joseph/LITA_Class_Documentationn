@@ -19,7 +19,8 @@ The primary source of Data used is Data Sale csv, this an open source data share
 - SQL Structured Query Language, for querring of Data
 - GitHub for portfolio Building
 
-### DATA CLEANING AND PREPARATION
+### DATA CLEANING AND PREPARATIONS
+
 
 
   
