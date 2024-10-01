@@ -7,6 +7,10 @@ During the data entry in excel class,we worked with servral data coming in from 
 It is also a known fact that,however a data is entered into a spread sheet, will determine the output of the analysis.
 Ensuring the accuracy and quality of data, was also implemented while analysing some data in class.
 
+### DATA SOURCESD
+The primary source of Data used is Data Sale csv, this an open source data shared by the facilitator.
+
+
 
 
 
