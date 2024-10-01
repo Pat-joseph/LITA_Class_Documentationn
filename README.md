@@ -11,9 +11,14 @@ Ensuring the accuracy and quality of data, was also implemented while analysing 
 The primary source of Data used is Data Sale csv, this an open source data shared by the facilitator
 
 ### TOOLS USED
-- Microsoft Excel for Data Cleaning, Analysis and Validation
+- Microsoft Excel
+  i For Data Cleaning
+  ii Analysis
+  iii Validation
+
 - SQL Structured Query Language, for querring of Data
 - GitHub for portfolio Building
+  
   
   
   
