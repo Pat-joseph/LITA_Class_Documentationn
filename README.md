@@ -16,11 +16,37 @@ The primary source of Data used is Data Sale csv, this an open source data share
   2. For Analysis
   3. For Data Visualization
   
-
-- SQL Structured Query Language, for querring of Data
+- SQL Structured Query Language
+  for querring of Data
 - GitHub for portfolio Building
+  
+### Data Cleaning and Preparations
+In the Initial phase of the Data Cleaning and preparations, we performed the following action;
+1. Data Loading Inspection
+2. Handling missing variables
+3.Data Cleaning and Formatting
 
-### DATA CLEANING AND PREPARATIONS
+### Exploratory Data Analysis
+EDA Involved the exploring of Data to answer some questions about the Data such as;
+- What is overall sales trend
+- which product are top sellers
+- What are the products on peak sales
+  
+  
+
+
+
+
+
+
+
+
+  
+   
+   
+   
+ 
+
 
 
 
