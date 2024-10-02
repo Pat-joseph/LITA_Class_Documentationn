@@ -34,6 +34,12 @@ EDA Involved the exploring of Data to answer some questions about the Data such 
 
   ### Data Analysis
   This is where we included some basic lines of code or queries or even some of the DAX expressions used during your analysis;
+
+
+  ```SQL
+  SELECT * FROM TABLE1
+  WHERE CONDITION = TRUE
+  ```
   
   
   
