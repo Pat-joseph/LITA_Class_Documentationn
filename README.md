@@ -11,7 +11,7 @@ Ensuring the accuracy and quality of data, was also implemented while analysing 
 The primary source of Data used is Data Sale csv, this an open source data shared by the facilitator
 
 ### TOOLS USED
-- Microsoft Excel
+- Microsoft Excel  [Download Here](https://www.microsoft.com)
   1. For Data Cleaning
   2. For Analysis
   3. For Data Visualization
