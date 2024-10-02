@@ -12,9 +12,10 @@ The primary source of Data used is Data Sale csv, this an open source data share
 
 ### TOOLS USED
 - Microsoft Excel
-  1 For Data Cleaning
-  2 For Analysis
-  3 For Data Visualization
+  1. For Data Cleaning
+  2. For Analysis
+  3. For Data Visualization
+  
 
 - SQL Structured Query Language, for querring of Data
 - GitHub for portfolio Building
