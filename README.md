@@ -50,7 +50,7 @@ EDA Involved the exploring of Data to answer some questions about the Data such 
   
   ### Data Visualization
 
-Screenshot_20241001-181601.jpgVVVV
+Screenshot_20241001-181601.jpg
   
   
 
