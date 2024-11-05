@@ -42,6 +42,10 @@ EDA Involved the exploring of Data to answer some questions about the Data such 
   This is where we included some basic lines of code or queries or even some of the DAX expressions used during your analysis;
 
 
+Excel
+=AVERAGEIF(J2,A1,BB)
+Where D2 Contains the product Name
+
   ```SQL
   SELECT * FROM TABLE1
   WHERE CONDITION = TRUE
